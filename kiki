@@ -1,0 +1,21 @@
+# source: kmc113@duke.edu
+
+BackgroundColour=20,20,20
+ForegroundColour=253,164,186
+CursorColour=255,97,136
+Black=30,30,30
+BoldBlack=40,40,40
+Red=255,0,85
+BoldRed=201,0,67
+Green=255,0,166
+BoldGreen=196,0,128
+Yellow=253,185,200
+BoldYellow=245,195,194
+Blue=255,0,255
+BoldBlue=200,0,200
+Magenta=255,0,117
+BoldMagenta=130,0,30
+Cyan=246,77,255
+BoldCyan=249,140,255
+White=220,220,220
+BoldWhite=240,240,240
